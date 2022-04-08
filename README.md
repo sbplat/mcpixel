@@ -1,0 +1,2 @@
+# mcpixel
+Hypixel API wrapper
